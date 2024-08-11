@@ -1,0 +1,21 @@
+ID,FieldName,Alias,KeywordList
+AI,AI,AI,artificial intelligence|AI
+ML,MachineLrn,Machine Learning,machine learning
+DL,DeepLrn,Deep Learning,deep learning
+UL,UnsupervLrn,Unsupervised Learning,unsupervised learning
+SL,SupervLrn,Supervised Learning,supervised learning
+NLP,NatLangProc,NLP,natural language processing|NLP
+TG,TextGen,Text Generation,text generation
+QA,QuesAnswer,Question Answering,question answering
+CE,ContextExt,Context Extraction,context extraction
+MT,MachineTrans,machine translation,machine translation
+ES,ExpertSystems,Expert Systems,expert systems
+S2T,Speech2Txt,Speech to Text,speech to text|text to speech
+IR,ImgRec,Image Recognition,image recognition
+MV,MachineVisi,Machine Vision,machine vision
+HIR,HighIntelRobo,High Intel Robotics,high-intelligence robotics
+NN,NeuralNet,Neural Network,neural network
+OAI,OpenAI,Open AI,open AI
+CB,ChatBot,Chat Bot,chatbot|chat bot
+GPT,ChatGPT,ChatGPT,ChatGPT
+GAI,GenAI,Generative AI,generative AI
